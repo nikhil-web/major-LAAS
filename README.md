@@ -1,7 +1,7 @@
-## major-LAAS-V1-python
+# major-LAAS-V1-python
 Lab Assistance and Analysis System
 
-# For our major project
-current tasks
+## For our major project
+### current tasks
  1. Implement windows remote desktop with rdpy 
  2. Give the implementation a GUI
